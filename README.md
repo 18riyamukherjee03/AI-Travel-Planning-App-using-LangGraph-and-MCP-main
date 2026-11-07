@@ -89,8 +89,8 @@ Get your free API keys:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/18riyamukherjee03/AI-Travel-Planning-System-using-LangGraph.git
-cd AI-Travel-Planning-System-using-LangGraph
+git clone https://github.com/18riyamukherjee03/AI-Travel-Planning-App-using-LangGraph-and-MCP-main.git
+cd AI-Travel-Planning-App-using-LangGraph-and-MCP-main
 ```
 
 ### 2. Create and Activate a Virtual Environment
